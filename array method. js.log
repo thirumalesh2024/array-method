@@ -1,0 +1,26 @@
+index.js:3 Array(4)0: 11: 22: 33: 4length: 4[[Prototype]]: Array(0)
+index.js:7 Array(2)0: "apple"1: "banana"length: 2[[Prototype]]: Array(0) 'cherry'
+index.js:11 Array(2)0: 101: 15length: 2[[Prototype]]: Array(0) 5
+index.js:15 Array(3)0: "lion"1: "cat"2: "dog"length: 3[[Prototype]]: Array(0) 3
+index.js:19 Array(2)0: 1001: 200length: 2[[Prototype]]: Array(0)
+index.js:23 true
+index.js:28 Array(4)0: 11: 22: 33: 4length: 4[[Prototype]]: Array(0)
+index.js:32 Array(5) 5
+index.js:37 Array(2)
+index.js:42 Array(3) 4
+index.js:46 Array(4) 4
+index.js:50 Array(5)
+index.js:55 Array(2)
+index.js:60 Array(3)
+index.js:65 Array(4)
+index.js:70 Array(0)
+index.js:75 Array(1)
+index.js:80 Array(3)
+index.js:86 Array(2)
+index.js:91 Array(2)
+index.js:96 Array(1)
+index.js:101 Array(3)
+index.js:107 Array(2)
+index.js:111 Array(3)
+index.js:116 Array(2)
+(index):43 Live reload enabled.
